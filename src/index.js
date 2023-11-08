@@ -6,8 +6,8 @@ import Navbar from "./components/Navbar";
 import App from "./components/App";
 import Footer from "./components/Footer";
 import NavCode from "./components/NavCode";
-import './style/theme.scss'
-import './style/global.scss'
+import './style/theme.sass'
+import './style/global.sass'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 setInterval(() =>{

@@ -1,4 +1,4 @@
-import '../style/App.scss'
+import '../style/App.sass'
 
 import {useLayoutEffect, useEffect} from "react";
 export default function App() {

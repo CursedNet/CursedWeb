@@ -1,4 +1,4 @@
-import '../style/Navbar.scss'
+import '../style/Navbar.sass'
 
 export default function Navbar() {
 

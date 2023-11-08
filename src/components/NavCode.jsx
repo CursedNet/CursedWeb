@@ -1,4 +1,4 @@
-import '../style/NavCode.scss'
+import '../style/NavCode.sass'
 import {useEffect} from "react";
 
 export default function NavCode() {
